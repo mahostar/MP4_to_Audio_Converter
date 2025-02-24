@@ -2,6 +2,10 @@
 
 A simple application to convert MP4 video files to MP3 or WAV audio formats using a PyQt5 GUI.
 
+<div align="center">
+  <img src="screenshots/app.png" alt="Application Screenshot" width="800"/>
+</div>
+
 ## Features
 
 - Drag and drop MP4 files into the application
